@@ -1,0 +1,18 @@
+[
+    {
+        "tema": "SAFESTART",
+        "data": "18-05-2025",
+        "horario": "13:00",
+        "setor": "LIQUIDOS",
+        "local": "REFEITORIO",
+        "responsavel": "CELSO"
+    },
+    {
+        "tema": "LOTO",
+        "data": "23-05-2025",
+        "horario": "13:00",
+        "setor": "LIQUIDOS",
+        "local": "SALA DE TREINAMENTOS",
+        "responsavel": "JAINAINA"
+    }
+]
